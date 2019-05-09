@@ -1,2 +1,4 @@
-Welcome Message.
-Hello World New Message has been added.
+Welcome Message
+Already existed code has been removed.
+Regards,
+Bye.com
