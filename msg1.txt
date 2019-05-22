@@ -8,3 +8,4 @@ New line as been added.
 This is changes done in master branch.
 This is changes done by develop branch.
 
+We are saving second changes related to stash2.
